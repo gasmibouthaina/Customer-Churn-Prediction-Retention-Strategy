@@ -128,3 +128,4 @@ This project demonstrates how machine learning can be used not only to predict c
 📬 Contact
 
 For questions or collaboration, feel free to connect via LinkedIn or GitHub.
+https://www.linkedin.com/in/boutheina-gasmi-81618416b/
